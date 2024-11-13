@@ -61,6 +61,6 @@ public class PlayerController : MonoBehaviour
             count++;
             SetCountText();
         }
-        
+
     }
 }
